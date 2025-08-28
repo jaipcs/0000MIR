@@ -1,0 +1,19 @@
+
+=== EDA SUMMARY ===
+Shape: (1337, 7)
+Duplicates: 0
+Missing Values:
+None
+
+Correlation with Target (expenses):
+expenses    1.000000
+age         0.298308
+bmi         0.198637
+children    0.067389
+Name: expenses, dtype: float64
+
+Outlier Counts (IQR method):
+age: 0 outliers
+bmi: 9 outliers
+children: 0 outliers
+expenses: 139 outliers
